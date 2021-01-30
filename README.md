@@ -12,7 +12,7 @@ Even though accessibility is a broad topic that can include complex requirements
 
 **Note**: This layout is designed for "desktop", so you may notice that some of the elements don't look like the Mock-Up when viewed at a resolution smaller than 768px. 
 The following image shows the web application's appearance and functionality:
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+![code refactor demo](./01-html-css-git-homework-demo.png)
 
 ## Tasks Completed
 **Scout Rule** Tasks Performed:
